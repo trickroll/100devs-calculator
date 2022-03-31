@@ -18,6 +18,7 @@ function Calculator() {
 let total = 0
 let s = ''
 let operation = 'plus'
+let test= ''
 
 // Write out number
 document.querySelector("#one").addEventListener('click', appendOne)
